@@ -1,0 +1,9 @@
+# kafka persistant storage
+/kafka-db
+
+# dotnet build paths
+*/bin/
+*/obj/
+
+vs code files
+*/.vscode/
